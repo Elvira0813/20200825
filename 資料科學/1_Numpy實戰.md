@@ -270,6 +270,12 @@ ar[1:6:2]
 import numpy as np
 ar=2*np.arange(6)
 # ar
+ar[1:6:3]
+```
+```
+import numpy as np
+ar=2*np.arange(6)
+# ar
 ar[:4]
 ```
 ### [小測驗]下列程式執行後的結果為何?
